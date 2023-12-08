@@ -22,9 +22,7 @@ Run the following command in terminal opened at the main folder.
 
 # BitBirds generation script
 # Intro
-This is published under MIT license, which means you can do whatever you want with it - entirely at your own risk.
-
-Please don't be an asshole. This is, like, grassroots and stuff. 
+This is like grassroots and stuff. 
 
 Specifically I'm asking you in good faith not to directly knock off the BitBirds project, or otherwise screw me over for sharing this. Do not use this for anything hateful or discriminatory.
 
